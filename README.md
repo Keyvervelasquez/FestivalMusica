@@ -2,7 +2,7 @@
 
 Página web para un festival de música hecha con HTML, CSS y SASS usando Metodología BEM 
 
-## Autor -
+## Autor
 **Keyver Velásquez**
 
 * [Linkedin] (https://www.linkedin.com/in/keyvervelasquez/)
