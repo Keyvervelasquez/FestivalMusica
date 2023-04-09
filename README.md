@@ -1,17 +1,20 @@
-## Descripción
+# Festival de música 
 
-Página web para un festival de música hecha con HTML, CSS y SASS usando Metodología BEM 
+_Este es un proyecto creado con HTML, CSS y SASS usando metodologÍa de BEM_
 
-## Autor
-**Keyver Velásquez**
+## Autor ✒️
 
-* [Linkedin] (https://www.linkedin.com/in/keyvervelasquez/)
+ **Keyver Velásquez** 
+ - [Linkdenin](https://www.linkedin.com/in/keyvervelasquez/)
 
-## Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
+## Ver un ejemplo en vivo 🚀
 
-## Instalación
-Este proyecto no necesita de instalacion. Simplemente abre la carpeta o haz doble click en el .html
+* [ENLACEGITHUBPAGES](https://ENLACEGITHUBPAGES.org/)
 
-## Contratación 
-Si quieres contratarme puedes escribirme a keyvervelasquez@gmail.com para consultas.
+### Instalación 🔧
+
+_Este proyecto no necesita instalación. Simplemente abre la carpeta o haz doble click en el archivo index.html_
+
+## Contratación 🛠️
+
+_Si quieres contratarme puedes escribirme a keyvervelasquez@gmail.com para consultas._
