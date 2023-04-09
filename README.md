@@ -9,7 +9,7 @@ _Este es un proyecto creado con HTML, CSS y SASS usando metodologÍa de BEM_
 
 ## Ver un ejemplo en vivo 🚀
 
-* [ENLACEGITHUBPAGES](https://ENLACEGITHUBPAGES.org/)
+* [https://keyvervelasquez.github.io/FestivalMusica//](https://keyvervelasquez.github.io/FestivalMusica//)
 
 ### Instalación 🔧
 
